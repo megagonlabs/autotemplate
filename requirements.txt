@@ -1,0 +1,8 @@
+fire
+tqdm
+py-rouge
+pandas
+transformers==4.18.0
+truecase==0.0.14
+torch==1.12.1
+stanza==1.4.0
